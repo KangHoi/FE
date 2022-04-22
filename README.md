@@ -3,11 +3,11 @@
 <br>
 <br>
 
-## Vue.js + Storybook
-### Set up Vue Storybook
+## Vue3 + Storybook
+### Set up Vue3 Storybook
 
 ```
-npx -p @storybook/cli sb init
+npx sb init
 ```
 
 ### Run
